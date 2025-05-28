@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "TrailAnalyzerModel.mlmodel",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
